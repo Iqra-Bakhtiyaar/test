@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iqra Bakhtiyaar</title>
+    <link>https://modest-swanson-2c7a65.netlify.com/</link>
+    <description>Recent content on Iqra Bakhtiyaar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Sep 2018 21:13:15 +0100</lastBuildDate>
+    
+	<atom:link href="https://modest-swanson-2c7a65.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>posts</title>
+      <link>https://modest-swanson-2c7a65.netlify.com/posts/</link>
+      <pubDate>Thu, 20 Sep 2018 21:13:15 +0100</pubDate>
+      
+      <guid>https://modest-swanson-2c7a65.netlify.com/posts/</guid>
+      <description>Iqra ka blog </description>
+    </item>
+    
+    <item>
+      <title>Robot controller</title>
+      <link>https://modest-swanson-2c7a65.netlify.com/projects/robot-controller/</link>
+      <pubDate>Tue, 11 Sep 2018 21:15:35 +0100</pubDate>
+      
+      <guid>https://modest-swanson-2c7a65.netlify.com/projects/robot-controller/</guid>
+      <description>Robot controller, Mar 2015- Apr 2015
+As part of final project of my 1st year in Computer Science I developed software of a robot which could be controlled from a website. The main idea was to control this robot from anywhere around the world. This robot shown in the image could do simple movements such as moving forward, backwards, right, left and in circles.
+Following is the website developed in Dr.</description>
+    </item>
+    
+  </channel>
+</rss>
